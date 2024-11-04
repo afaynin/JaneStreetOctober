@@ -13,4 +13,5 @@ With the benefit of hindsight I should have just used text files to store all th
 If it takes to long to run:
 
 Change the line in index.py: "if len(previous_moves) > 12:" to a smaller number
+
 Change the multipication of all random.random() to a larger number (like 15)
