@@ -4,6 +4,7 @@ Brute force solution to the jane street puzzle for October 2024
 To run do:
 
 python index.py | python map_out.py | python score.py
+
 (Will indicate proper paths to get 2024)
 To convert the path to chess notation just stick one of the lists into 'parse.py'
 
